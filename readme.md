@@ -1,4 +1,5 @@
 com.hepsiburada gerçek kullanıcı datası ile otomasyon project
+
 Otomasyon projesinde Java, IntejijIDEA, Selenium WebDriver, Cucumber , Allure Report , Extend Report kullanılmıştır.
 
 Feature dosyasında senaryolar oluşturulmuş olup stepDefinitions class'ında senaryolara ait steplerin otomasyon scriptleri yazılmıştır.
